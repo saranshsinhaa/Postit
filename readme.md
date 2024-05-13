@@ -1,16 +1,3 @@
-## Full Stack Web Application
-
-**Prompt**: Build a web application that people would use. It should target a problem that friends or businesses have on a regular basis and offer a compelling solution. We’re looking for product intuition and excellent technical execution.
-
-**Tech Stacks**: We recommend using the T3 Stack, which is standard at Mercor. However, using MERN and MEAN with TypeScript and Next.js is also acceptable. We also recommend using UI kits like Chakra UI, Material UI, or Flowbite, so you don’t have to spend too much time on UI. You can deploy it to Vercel or any other provider.
-
-**Examples**: These are examples from previous hackathons:
-
-- AI Interviewer: Someone on the Mercor team built a GPT-based web app that uses text-to-speech and speech-to-text to interview the user and asks follow-up questions based on their responses. This is very helpful for companies that are hiring.
-- Browser-based VM: One submission was a virtual machine you can access in your browser. It was targeted at people who couldn’t afford expensive laptops and eventually became Seros.io.
-
----
-
 ## Project Name: PostIT
 
 ### Tech Stack
